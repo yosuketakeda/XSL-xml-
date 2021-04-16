@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new_screen.xsl" ?>
+<catalog>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Adelaide</Site>
+    <Description>Private IP 2M/2M</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$649.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>NSW</Site>
+    <Description>Private IP 2M/2M</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$649.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Cheltenham Dr site</Site>
+    <Description>Private IP 2M/2M</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$799.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Queensland</Site>
+    <Description>Private IP 2M/2M -Fibre in the sky</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$649.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Perth</Site>
+    <Description>PrivateIP 1M/1M plus ADSL2+</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$649.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Wetherill Park</Site>
+    <Description>2 ADS:2+</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$849.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Clayton</Site>
+    <Description>4MB FIS Unsecure</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$1,440.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Clayton</Site>
+    <Description>Clayton FIS 4MB Private</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$2,610.00</Amount>
+  </cd>
+  <cd>
+    <Date>1/6/2011</Date>
+    <Site>Canberra</Site>
+    <Description>2x ADSL2</Description>
+    <Charge>Monthly Fee</Charge>
+    <Amount>$849.00</Amount>
+  </cd>
+  
+  <FixedLineVoice>
+    <amnt>$0.00</amnt>
+  </FixedLineVoice>
+  <Mobilevoice>
+    <amnt>$0.00s</amnt>
+  </Mobilevoice>
+  <Data>
+    <amnt>$0.00s</amnt>
+  </Data>
+  <Services>
+    <amnt>$0.00s</amnt>
+  </Services>
+  <AccountCharges>
+    <amnt>$0.00s</amnt>
+  </AccountCharges>
+  <GST>
+    <amnt>$0.00s</amnt>
+  </GST>
+  
+  <AccountNumber>
+    <amnt>1234567</amnt>
+  </AccountNumber>
+  <InvoiceID>
+    <amnt>1234567</amnt>
+  </InvoiceID>
+  <InvoiceDate>
+    <amnt>1234567</amnt>
+  </InvoiceDate>
+
+
+  <Total>
+    <amnt>$1,000</amnt>
+  </Total>
+  <DateDue>
+    <amnt>6/7/2019</amnt>
+  </DateDue>
+  <InvId>
+    <amnt>1234567</amnt>
+  </InvId>
+</catalog>
+
